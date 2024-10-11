@@ -12473,7 +12473,7 @@ class Ui_e_notes_2(object):
         self.b_start.setText(_translate("e_notes_2", "Start"))
         self.b_stop.setText(_translate("e_notes_2", "Finish"))
         self.b_pause.setText(_translate("e_notes_2", "Abort"))
-        self.b_log_output.setText(_translate("e_notes_2", "Remake output log"))
+        self.b_log_output.setText(_translate("e_notes_2", "Recreate log"))
         self.label_13.setText(_translate("e_notes_2", "Config file"))
         self.b_import.setText(_translate("e_notes_2", "Input"))
         self.b_export.setText(_translate("e_notes_2", "Output"))
